@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8b041b187d7e8f00c8b1c558",
+  "owner": "ykgdschrtj",
+  "repo": "page-99b94ca3dc39be66070ac373",
+  "title": "永远云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "99b94ca3dc39be66070ac373",
+      "a": "永远云",
+      "b": "",
+      "entity": "永远云",
+      "brand": "永远云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "41f422a05e79187d9a0e7ca2fe8277f2ad786fc10c14bb4ede8dad86cc61d687",
+      "content": {
+        "keyword1": "永远云",
+        "keyword2": "",
+        "primary_entity": "永远云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "永远云探讨并提供稳定高效的现代网络传输方案，以专栏作者的视角为您解构高速连接背后的技术细节与可靠体验。",
+          "AI_DESCRIPTION": "永远云探讨并提供稳定高效的现代网络传输方案，以专栏作者的视角为您解构高速连接背后的技术细节与可靠体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #ffffff;--text: #111111;--accent: #ff5500;--muted: #666666;--border: #e0e0e0;--card-bg: #f9f9f9}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;padding-bottom: 60px}\nheader {padding: 80px 20px 40px 20px;max-width: 1200px;margin: 0 auto}\n.hero-title {font-size: clamp(3rem, 12vw, 9rem);font-weight: 900;line-height: 1;letter-spacing: -0.04em;color: var(--text);margin-bottom: 24px;text-transform: uppercase}\n.hero-title span {color: var(--accent)}\n.hero-subtitle {font-size: 1.25rem;color: var(--muted);max-width: 600px;margin-top: 16px}\nmain {max-width: 1200px;margin: 0 auto;padding: 0 20px}\nsection {margin: 80px 0}\nh2 {font-size: 2rem;margin-bottom: 30px;letter-spacing: -0.02em;border-bottom: 2px solid var(--text);padding-bottom: 10px;display: inline-block}\np {margin-bottom: 16px;color: var(--muted)}\n.essay-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 30px;margin-top: 40px}\n.card {background: var(--card-bg);padding: 30px;border: 1px solid var(--border);border-left: 6px solid var(--accent);position: relative}\n.card h3 {font-size: 1.25rem;margin-bottom: 12px;color: var(--text)}\n.plans-table {width: 100%;border-collapse: collapse;margin-top: 30px;font-size: 0.95rem}\n.plans-table th, .plans-table td {border: 1px solid var(--border);padding: 16px;text-align: left}\n.plans-table th {background: var(--text);color: #fff}\n.plans-table td {background: var(--card-bg)}\n.highlight-cell {border-top: 4px solid var(--accent) !important}\n.faq-container {display: grid;grid-template-columns: 1fr 1fr;gap: 40px;margin-top: 30px}\n@media (max-width: 768px) {\n  .faq-container {grid-template-columns: 1fr}\n}\n.faq-item {background: var(--card-bg);padding: 24px;border: 1px solid var(--border);border-left: 4px solid var(--text)}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 8px;color: var(--text)}\n.nav-bottom {position: fixed;bottom: 0;left: 0;width: 100%;background: var(--text);color: #fff;padding: 12px 20px;display: flex;justify-content: center;gap: 30px;font-size: 0.9rem;z-index: 100}\n.nav-bottom a {color: #fff;text-decoration: none}\n.nav-bottom a:hover {color: var(--accent)}\n.clients-list {display: flex;flex-wrap: wrap;gap: 16px;margin-top: 20px}\n.client-badge {background: var(--card-bg);border: 1px solid var(--border);padding: 10px 20px;font-weight: 600;border-left: 4px solid var(--accent)}\n</style><header>\n  <h1 class=\"hero-title\">永远<span>云</span></h1>\n  <p class=\"hero-subtitle\">在碎片化与高延迟的数字荒原中，我们以专栏作家的严谨与克制，为您重构一条通往顺畅、清爽与持续在线的现代网络传输路径。</p>\n</header>\n\n<main>\n  <section id=\"essay\">\n<h2>专栏叙事：为什么我们需要更清爽的连接</h2>\n    <p>现代日常不可避免地交织在各种网络交互之中。然而，拥挤的公共路由、频繁的抖动和令人费解的配置往往让人在信息获取的起点便损耗了大量耐心。永远云并非某种魔法，它是一项基于传输架构优化与长期维护的连通方案。</p>\n    <p>我们相信，优秀的网络体验应当如同呼吸般自然。它不需要冗长的说明，不需要时刻的提心吊胆，更不需要在关键时刻遭遇断连。通过对骨干网路节点的精心调试与容量规划，永远云力求在复杂的数字环境中，为每一次数据交互提供稳健的载体。</p>\n  </section>\n\n  <section id=\"features\">\n<h2>核心特性</h2>\n    <div class=\"essay-grid\">\n      <div class=\"card\">\n        <h3>多端协同</h3>\n        <p>支持多台设备同时在线，无论是桌面工作站还是移动终端，均能保持配置与连接状态的无缝同步。</p>\n      </div>\n      <div class=\"card\">\n        <h3>精选节点矩阵</h3>\n        <p>摒弃冗余的低效路径，甄选骨干网络，确保在高峰时段依然具备充沛的带宽与极低的响应延迟。</p>\n      </div>\n      <div class=\"card\">\n        <h3>长效稳定架构</h3>\n        <p>采用分布式高可用服务器集群与智能路由分流，大幅降低丢包率，应对各类高强度传输需求。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n<h2>方案与资费</h2>\n    <p>我们提供灵活的配置选择，满足不同强度的日常和专业需求。按需选择，丰俭由人。</p>\n    <div>\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>方案名称</th>\n            <th>月付价格</th>\n            <th>年付优惠</th>\n            <th>核心权益</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>基础版</strong></td>\n            <td>¥15 / 月</td>\n            <td>¥150 / 年</td>\n            <td>每月 100GB 流量 / 支持 3 台设备 / 基础流媒体解锁 / 普通线路节点池</td>\n          </tr>\n          <tr>\n            <td class=\"highlight-cell\"><strong>旗舰版</strong><br><span>推荐首选</span></td>\n            <td class=\"highlight-cell\">¥35 / 月</td>\n            <td class=\"highlight-cell\">¥350 / 年</td>\n            <td class=\"highlight-cell\">每月 300GB 流量 / 支持 5 台设备 / 全节点原生解锁 / IPLC 专线优化 / 7x24 优先支持</td>\n          </tr>\n          <tr>\n            <td><strong>团队版</strong></td>\n            <td>¥85 / 月</td>\n            <td>¥850 / 年</td>\n            <td>每月 1000GB 流量 / 支持 20 台设备 / VIP 专享高带宽 / 企业定制路由 / 专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n<h2>客户端支持</h2>\n    <p>永远云兼容主流操作系统与开源生态客户端，您可以根据习惯自由选择对应的接入工具。</p>\n    <div class=\"clients-list\">\n      <div class=\"client-badge\">Windows 客户端</div>\n      <div class=\"client-badge\">macOS 客户端</div>\n      <div class=\"client-badge\">iOS / iPadOS 接入</div>\n      <div class=\"client-badge\">Android 客户端</div>\n      <div class=\"client-badge\">Linux 命令行适配</div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n<h2>常见问题解答</h2>\n    <div class=\"faq-container\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用永远云的服务？</h3>\n        <p>您可以通过注册账户并挑选适合的方案来完成接入。购买后系统将自动生成专属的订阅链接，导入至您常用的客户端即可开始使用。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些主流客户端软件？</h3>\n        <p>全面兼容目前市场上主流的各类现代化网络客户端，同时提供详细的图文配置指引，帮助您在数分钟内完成部署。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>流量是如何计算与重置的？</h3>\n        <p>流量采用双向清算或按周期重置机制（具体视套餐而定），在每个计费周期的起始日自动恢复至对应额度，未用完的流量不累计至下一周期。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接不稳定时该如何处理？</h3>\n        <p>建议首先检查本地网络环境，或尝试切换至备用节点。如果问题持续存在，可通过用户后台提交工单，技术团队将协助排查。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<nav class=\"nav-bottom\">\n  <a href=\"#essay\">专栏叙事</a>\n  <a href=\"#features\">核心特性</a>\n  <a href=\"#plans\">方案资费</a>\n  <a href=\"#clients\">客户端</a>\n  <a href=\"#faq\">常见问题</a>\n</nav>",
+          "hash": "0309d022bb54838eac2236260a0e4bd414d9f904893f9794b87c3cd3ef22f4cc",
+          "seo": {
+            "title": "永远云 - 现代网络传输与连接专栏",
+            "keywords": "永远云, 网络连接, 专线传输, 流量套餐, 客户端下载",
+            "description": "永远云探讨并提供稳定高效的现代网络传输方案，以专栏作者的视角为您解构高速连接背后的技术细节与可靠体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2265",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qmhfz.cn",
+    "host": "p-6b99c25e2c.qmhfz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f3841510e3c4fe765034c83cd0d5cc159d7ba269a9a109ff1dfddc2f8b36d312",
+    "sitemap.xml": "65d9743b7e58978db39f695075b8aa061bf3cf3cb1486c99f040506e9df9233a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3d16a3298ef543fa0b4e00ce5bf0ecc28dbd916f053f041b1a4bff7a258dd05d",
+    "robots.txt": "d53374def71f41506a52988192015922b91ea4b53a320d68b9c84b0f787654f5",
+    "6c73ee1c217761f808afda8bb9cb9b21.txt": "a7dd76fcb9ca9f3232bef4afdc4248570876d3aa9a729df4009c86ed08d6a351"
+  },
+  "revision": "8e64c265112a646dea5f22dfbecd3e8e6a8b6dcc650ab492e22e20c91654e654"
+}
